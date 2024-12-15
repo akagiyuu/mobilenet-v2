@@ -1,0 +1,18 @@
+{
+  "model": {
+    "classes": 5,
+    "dropout": 0.5
+  },
+  "optimizer": {
+    "weight_decay": null,
+    "grad_clipping": null,
+    "beta_1": 0.9,
+    "beta_2": 0.999,
+    "epsilon": 0.00001
+  },
+  "epoch_count": 30,
+  "batch_size": 8,
+  "seed": 42,
+  "learning_rate": 0.0001,
+  "worker_count": 4
+}
